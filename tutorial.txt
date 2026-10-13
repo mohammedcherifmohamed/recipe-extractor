@@ -1,0 +1,5 @@
+TypedDict = used to specify output structure and we use with it "
+structred_model = model.with_structured_output(Review)
+"
+we can use alsso annotated to specefy the type of return and its description
+Pydantic with BaseModel, a powerful data validation library + Field for describing the field
