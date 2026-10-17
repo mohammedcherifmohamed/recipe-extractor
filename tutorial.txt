@@ -3,3 +3,5 @@ structred_model = model.with_structured_output(Review)
 "
 we can use alsso annotated to specefy the type of return and its description
 Pydantic with BaseModel, a powerful data validation library + Field for describing the field
+
+parser in chains extracts the response content instead of all response details like tokens ....
