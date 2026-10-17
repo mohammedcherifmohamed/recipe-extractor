@@ -1,0 +1,5 @@
+echo ".env" >> .gitignore
+echo "node_modules/" >> .gitignore
+git add .gitignore
+git commit -m "Add gitignore"
+.env
